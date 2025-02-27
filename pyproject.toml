@@ -20,16 +20,16 @@ classifiers = [
 ]
 
 dependencies = [
-    "beautifulsoup4 ~= 4.12.0",
-    "biopython ~= 1.83",
+    "beautifulsoup4 ~= 4.13.3",
+    "biopython ~= 1.85",
     "EbookLib ~= 0.18",
-    "faster_whisper ~= 1.0.1",
+    "faster_whisper ~= 1.1.1",
     "ffmpeg_python ~= 0.2.0",
-    "rapidfuzz ~= 3.8.1",
-    "numpy ~= 1.24.3",
-    "openai_whisper == 20231117",
-    "regex ~= 2023.12.25",
-    "tqdm ~= 4.66.3",
+    "rapidfuzz ~= 3.12.1",
+    "numpy ~= 1.26.4",
+    "openai_whisper == 20240930",
+    "regex ~= 2024.11.6",
+    "tqdm ~= 4.67.1",
     "wcwidth >= 0.2.13"
 ]
 
